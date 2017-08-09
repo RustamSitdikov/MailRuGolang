@@ -1,2 +1,7 @@
 # MailRuGolang
-Mail.ru Golang Course
+Mail.ru Golang Education Course
+
+### Running
+```
+go run /path/to/lc.go /path/to/file
+```
